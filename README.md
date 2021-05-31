@@ -6,10 +6,10 @@
 
 # 公共顶部
 
-![image-20210421204543633](\assets\mdimg\image-20210421204543633.png)
+![image-20210421204543633](/assets/mdimg/image-20210421204543633.png)
 
 ## 1. topbar
 
-![image-20210421204931919](\assets\mdimg\image-20210421204931919.png)
+![image-20210421204931919](/assets/mdimg/image-20210421204931919.png)
 
 ### (1) geo
