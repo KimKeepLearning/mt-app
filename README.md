@@ -23,7 +23,7 @@
 
 > SSR渲染实现：
 >
-> 			1. 在store/index.js里面利用了`nuxtServerInit`，
+>       1. 在store/index.js里面利用了`nuxtServerInit`，
 >
 >       2. 在这个函数里面，请求得到位置的接口以得到当前定位。
 >       3. 在Vue组件获取数据的地方用`$store`获取
@@ -128,7 +128,7 @@
 
 ## 1.注册
 
-<img src="C:\Users\18430\AppData\Roaming\Typora\typora-user-images\image-20210423200540726.png" alt="image-20210423200540726" style="zoom: 80%;" />
+<img src="/assets/mdimg/image-20210423200540726.png" alt="image-20210423200540726" style="zoom: 80%;" />
 
 输入验证用的是element-ui里的表单输入，在data中设定好rules。
 
