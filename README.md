@@ -1,22 +1,15 @@
-# mt-app
+页面实现的关键点有三个：
 
-> My wonderful Nuxt.js project
+1. 如何设计vue组件中的数据结构，用最少的dom结构实现复杂的页面效果
+2. 数据传递和路由设计
+3. 数据库中的数据应该有哪些属性
 
-## Build Setup
+# 公共顶部
 
-``` bash
-# install dependencies
-$ npm install
+![image-20210421204543633](\assets\mdimg\image-20210421204543633.png)
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## 1. topbar
 
-# build for production and launch server
-$ npm run build
-$ npm start
+![image-20210421204931919](\assets\mdimg\image-20210421204931919.png)
 
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+### (1) geo
